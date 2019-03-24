@@ -1,6 +1,9 @@
 ## Overview
 All of the React and Redux setup has been done for you. The goal is to connect a button to a fetch event and render the results.
 
+## Setup
+* Run `npm i` and `npm start`
+
 ## Normal React State
 * In the Users component, create a method called `getUsers` and call it when the button is clicked
 * In the getUsers method, make a fetch call to the following endpoint:
