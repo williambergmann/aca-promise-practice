@@ -10,6 +10,7 @@ class Users extends Component {
           <Button onClick={this.getUsers} variant="contained" color="primary">Get Users</Button>
         </div>
         <div className="users-block">
+          {/* Map through users here */}
         </div>
       </Fragment>
     )
